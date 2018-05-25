@@ -23,6 +23,8 @@
 /.idea
 symfony.lock
 composer.lock
+*.vpp.bak*
+*.vpp.lck
 
 ###< symfony/framework-bundle ###
 
