@@ -95,7 +95,7 @@ class StoreSubscriber implements EventSubscriberInterface
 $dispatcher2 = new EventDispatcher();
 $subscriber  = new StoreSubscriber();
 $dispatcher2->addSubscriber($subscriber);
-$dispatcher2->dispatch()
+$dispatcher2->dispatch();
 
 
 
