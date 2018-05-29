@@ -109,7 +109,13 @@ B. 实现订阅器来使用事件调度器(Using Event Subscribers)
 
 
 
-    
+
+
+
+
+
+
+
 
 
 
@@ -122,4 +128,3 @@ B. 实现订阅器来使用事件调度器(Using Event Subscribers)
 
 https://blog.ircmaxell.com/2012/03/handling-plugins-in-php.html
 https://symfony.com/doc/current/components/event_dispatcher.html
-
